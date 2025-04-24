@@ -1,0 +1,1 @@
+If many parts of a problem each occupied one room and you could only go in or out(0 or 1) of the room you are in to a tape drive room selection. You could use logic gates and set theory solve the problem.
